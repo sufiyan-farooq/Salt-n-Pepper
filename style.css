@@ -543,9 +543,67 @@ font-size: 60px;
 .slide-image img:hover{
   transform: translateZ(20px);    
 }
+.footer{
+    color: black;
+    background-color: black;
+    width: 1520px;
+    height: 300px;
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+}
+
+.lastfile p{
+ font-size: small;
+}
+.lastfile1 h5{
+    color: white;
+    font-size: large;
+    font-family: myfont;
+    
+}
+.lastfile1 a{
+    color: rgb(168, 166, 166);
+    font-family: poppins;
+    margin-top: 10px;
+    font-size: large;
+    text-decoration: none;
+    display: block;
+    margin-left: 30px;
+}
 
 
+.lastfile2 h5{
+    color: white;
+    font-size: large;
+    font-family: myfont;
+    
+}
+.lastfile2 a{
+    color: rgb(168, 166, 166);
+    font-family: poppins;
+    margin-top: 10px;
+    font-size: large;
+    text-decoration: none;
+    display: block;
+    
+}
 
+.lastfile3 h5{
+    color: white;
+    font-size: large;
+    font-family: myfont;
+    
+}
+.lastfile3 a{
+    color: rgb(168, 166, 166);
+    font-family: poppins;
+    margin-top: 10px;
+    font-size: large;
+    text-decoration: none;
+    display: block;
+    
+}
 
 
 
