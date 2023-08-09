@@ -1,0 +1,7 @@
+.box{
+    border: 1px solid;
+    text-align: center;
+    padding: 20px;
+    margin: 0px auto;
+    box-shadow: 8px 9px 15px grey;
+}
