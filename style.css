@@ -546,13 +546,16 @@ font-size: 60px;
 .footer{
     color: black;
     background-color: black;
-    width: 1520px;
-    height: 300px;
+    width: 1400px;
+    height: 500px;
     display: flex;
-    padding: 50px;
+    padding: 100px;
     justify-content: space-between;
 }
-
+.lastfile img{
+    width: 150px;
+    height: 100px;
+}
 .lastfile p{
  font-size: small;
 }
@@ -604,6 +607,17 @@ font-size: 60px;
     display: block;
     
 }
+.logo a{
+    display: inline-block;
+}
 
-
-
+.power p{
+    font-size: small;
+    display: inline-block;
+      
+}
+.power span{
+    font-size: small;
+    display: inline-block;
+    color: rgb(121, 118, 118);
+}
