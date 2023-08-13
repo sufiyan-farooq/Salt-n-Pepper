@@ -476,7 +476,10 @@ font-size: 60px;
     background-color: white;
    
    }          
-
+  .open div{
+    color: #ED1C24;
+    background-color: white;
+  }
 
 
    .label5{
@@ -610,14 +613,21 @@ font-size: 60px;
 .logo a{
     display: inline-block;
 }
-
+.power{
+    display: inline-block;
+}
 .power p{
     font-size: small;
-    display: inline-block;
-      
+display: inline-block;
+    color: white;
+    margin-right: 300px;
+      margin-left: 200px;
 }
 .power span{
     font-size: small;
+    margin-right: 500px;
+    font-family: poppins;
     display: inline-block;
-    color: rgb(121, 118, 118);
+    margin-left: 250px;
+    margin-right: 200px;
 }
